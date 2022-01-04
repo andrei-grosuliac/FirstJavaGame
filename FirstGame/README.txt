@@ -1,1 +1,1 @@
-- download folder and run .exe or .jar file
+- download FirstGameLaunch folder and run .exe or .jar file
