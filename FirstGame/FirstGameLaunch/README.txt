@@ -1,0 +1,1 @@
+- download folder and run .exe or .jar file
