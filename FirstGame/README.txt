@@ -1,1 +1,2 @@
 - download FirstGameLaunch folder and run .exe or .jar file
+- need to disable Windows Defender to run the Game
