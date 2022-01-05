@@ -1,1 +1,3 @@
-Code and Exe File can be found
+- Code and Exe File can be found
+- For Windows only
+- For Mac and Linux users, please use some type of Windows simulator such as Wine or a VM
